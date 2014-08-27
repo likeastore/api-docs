@@ -10,9 +10,9 @@ The primary value that API propose is to simplify the integration with different
 * [Integration Flow](workflow.md)
 * [Data collection](collection.md)
 * [REST hooks](hooks.md)
-* [Favorites]()
-* [Search]()
-* [Recomendations]() (planned **v2.0**)
+* [Favorites](favorites.md)
+* [Search](search.md)
+* [Recommendations](recommendations.md) (planned **v2.0**)
 
 ## Integration helpers
 
