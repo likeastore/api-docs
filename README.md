@@ -1,4 +1,1 @@
-api-docs
-========
-
-Public API documentation
+[Likeastore API documentation](http://likeastore.viewdocs.io/api-docs)
