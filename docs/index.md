@@ -1,1 +1,2 @@
-# Likeastore API docs
+# Welcome to Likeastore API documentation
+
