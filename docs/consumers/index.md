@@ -9,13 +9,14 @@ The primary value that API propose is to simplify the integration with different
 * [Authorization](authorization.md)
 * [Integration Flow](workflow.md)
 * [Data collection](collection.md)
-* [Web hooks]()
+* [REST hooks](hooks.md)
 * [Favorites]()
 * [Search]()
+* [Recomendations]() (planned **v2.0**)
 
 ## Integration helpers
 
-* [Social networks authorization server](/api-docs/vendor/server)
+* [Social networks authorization server](server.md)
 
 ## Use cases
 
