@@ -93,24 +93,25 @@ It's also possible to search among user's data.
 
 ```plain
 HTTP GET /api/search/:user?q=search+text
+```
 
 ## Flow example
 
 Let's consider the integration between client `awesome.com` and Likeastore Consumers API (create new Facebook connection and read data).
 
-### 1. Register application
+#### 1. Register application
 
 Write email to [devs@likeastore.com](mailto:devs@likeastore.com) to recieve `client_id` / `client_secret` pair.
 
-### 2. Obtain Likeastore API access token
+#### 2. Obtain Likeastore API access token
 
 To access Likeastore API, you have to obtain `access_token` as described in [Authorization](authorization.md) section.
 
-### 3. Obtain Social Media Source access token
+#### 3. Obtain Social Media Source access token
 
 Register your application to social network and implement OAuth flow (or use [social networks authorization server](server.md)) to obtain `access_token` for user. For instance, for Facebook we recieved `accessToken=BBFDJJJSS8UuyP5LKwoiYuG80KmUa6ZCPsNmnZA7ct27VaSUg9XKsZCh5ZAVTZCUVT7jUukOuxcRoZBIS8iXRejZCK5MVQhxwMuZAqv0QOxsUKE4HazKf0ZBrFg48rPm9XWB6y61T63Stv3ZBZCU5LGQJILUCosNrFPRVj` for `username=alexander.beletsky`.
 
-### 4. Create connection
+#### 4. Create connection
 
 `awesome.com` sends HTTP POST to create new connection,
 
@@ -128,7 +129,7 @@ Payload,
 }
 ```
 
-### 5. Register REST hook
+#### 5. Register REST hook
 
 To be notified when data is ready, `awesome.com` registers REST hook.
 
@@ -146,7 +147,7 @@ Payload,
 }
 ```
 
-### 6. Read the data
+#### 6. Read the data
 
 Once the data is ready and REST hook is triggered, it is possible to fetch favorites,
 
