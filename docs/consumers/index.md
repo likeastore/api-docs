@@ -2,7 +2,7 @@
 
 This API would allow 3rd party vendors/consumers (eg. recommendation systems) to get the collection of their users favorites (likes) from different social medias into one single stream.
 
-The primary value that API propose is to simplify the integration with different social networks, by implementing OAuth / OAuth 2.0 authorization helpers.
+The primary value that API propose is to simplify the integration with different social networks, by implementing OAuth / OAuth 2.0 authorization helpers and taking care of data synchronization.
 
 ## Documentation
 
