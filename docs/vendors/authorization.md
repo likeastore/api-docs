@@ -1,4 +1,4 @@
-# Likeastore for Vendors - Authorization
+# Vendors API / Authorization
 
 Likeastore vendors API requires authentication for all endpoints. At the moment we support token based authorization.
 
