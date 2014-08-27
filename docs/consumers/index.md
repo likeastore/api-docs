@@ -2,6 +2,8 @@
 
 This API would allow 3rd party vendors/consumers (eg. recommendation systems) to get the collection of their users favorites (likes) from different social medias into one single stream.
 
+The primary value that API propose is to simplify the integration with different social networks, by implementing OAuth / OAuth 2.0 authorization helpers.
+
 ## Endpoints
 
 * [Authorization](authorization.md)
@@ -13,7 +15,6 @@ This API would allow 3rd party vendors/consumers (eg. recommendation systems) to
 
 ## Integration helpers
 
-* [Connect network widget](/api-docs/vendor/widget)
 * [Social networks authorization server](/api-docs/vendor/server)
 
 ## Use cases

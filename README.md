@@ -1,5 +1,16 @@
 # Likeastore API
 
+The Likeastore API documentation
+
+## Overview
+
+Likeastore open API allows users and consumers to integrate and fetch and search content favorites on social medias.
+
+We offer 2 parts of API's:
+
+* [Users API](/docs/users/index.md) is for existing Likeastore users who wants to access their data and other Likeastore features.
+* [Consumers API](/docs/consumers/index.md) is for 3rd parties that want to collect social medias favorites for their own user.
+
 ## Format
 
 All data is returned in JSON format. Also all the data that is passed to the server, must be formatted as JSON message. To get JSONP-style responses, supply GET attribute <code>callback</code>. The <code>callback</code> parameter is the desired function name and must be alphanumeric.
@@ -24,11 +35,6 @@ Planned to be added soon:
 * [Last.fm]()
 * [Soundcloud]()
 * [Pinterest]()
-
-## Sections
-
-* [Users API](/docs/users/index.md)
-* [Consumers API](/docs/consumers/index.md)
 
 # License
 
