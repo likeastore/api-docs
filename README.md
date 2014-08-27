@@ -36,6 +36,12 @@ Planned to be added soon:
 * [Soundcloud]()
 * [Pinterest]()
 
+## Use cases
+
+* [Likeastore integration use case](/docs/usecase.md)
+
+All questions please forward to [devs@likeastore.com](mailto:devs@likeastore.com).
+
 # License
 
 The MIT License (MIT)

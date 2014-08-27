@@ -141,7 +141,7 @@ Payload,
 
 ```js
 {
-	connection: `connection_id`,
+	connection: 'connection_id',
 	event: 'data-collected',
 	callback: 'http://awesome.com/hooks/data'
 }

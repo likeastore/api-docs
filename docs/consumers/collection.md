@@ -1,2 +1,0 @@
-# Consumers / Data collection
-

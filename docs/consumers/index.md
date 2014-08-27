@@ -4,12 +4,15 @@ This API would allow 3rd party vendors/consumers (eg. recommendation systems) to
 
 The primary value that API propose is to simplify the integration with different social networks, by implementing OAuth / OAuth 2.0 authorization helpers.
 
-## Endpoints
+## Documentation
 
 * [Authorization](authorization.md)
-* [Integration Flow](workflow.md)
-* [Data collection](collection.md)
+* [Integration Flow](integration.md)
 * [REST hooks](hooks.md)
+
+## Endpoints
+
+* [Connections](connections.md)
 * [Favorites](favorites.md)
 * [Search](search.md)
 * [Recommendations](recommendations.md) (planned **v2.0**)
@@ -17,9 +20,3 @@ The primary value that API propose is to simplify the integration with different
 ## Integration helpers
 
 * [Social networks authorization server](server.md)
-
-## Use cases
-
-* [Likeastore integration use case](/api-docs/vendor/usecase)
-
-All questions please forward to [devs@likeastore.com](mailto:devs@likeastore.com).
