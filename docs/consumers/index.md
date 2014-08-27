@@ -1,4 +1,4 @@
-# Likeastore for Vendors
+# Likeastore for Consumers API
 
 This API would allow 3rd party vendors/consumers (eg. recommendation systems) to get the collection of their users favorites (likes) from different social medias into one single stream.
 

@@ -1,4 +1,4 @@
-# Vendors API / Workflow
+# Consumers / Workflow
 
 The description of typical integration workflow between Likeastore and API user (consumer).
 

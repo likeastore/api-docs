@@ -28,7 +28,7 @@ Planned to be added soon:
 ## Sections
 
 * [Users API](/docs/users/index.md)
-* [Vendors API](/docs/vendors/index.md)
+* [Consumers API](/docs/consumers/index.md)
 
 # License
 
