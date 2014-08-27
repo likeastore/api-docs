@@ -1,6 +1,6 @@
 # Likeastore for Vendors
 
-This API would allow 3rd party vendors (recomendation systems) to get the collection of their users favorites (likes) from different social medias into one sigle stream.
+This API would allow 3rd party vendors (recommendation systems) to get the collection of their users favorites (likes) from different social medias into one single stream.
 
 ## Format
 
@@ -29,11 +29,11 @@ Planned to be added soon:
 
 ## Endpoints
 
-* [Authorization](/api-docs/vendor/authorization)
-* [Schedule data collection](/api-docs/vendor/collection)
-* [Web hooks](/api-docs/vendor/webhooks)
-* [Retreiving favorites](/api-docs/vendor/retreive)
-* [Search](/api-docs/vendor/search)
+* [Authorization](authorization.md)
+* [Schedule data collection]()
+* [Web hooks]()
+* [Retreiving favorites]()
+* [Search]()
 
 ## Integration helpers
 

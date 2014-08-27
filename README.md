@@ -1,4 +1,4 @@
-# Welcome to Likeastore API documentation
+# Likeastore API
 
 * [Users API](/docs/users/index.md)
 * [Vendors API](/docs/vendors/index.md)
