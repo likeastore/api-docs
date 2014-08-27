@@ -14,10 +14,10 @@ HTTP POST /api/auth
 
 ### Parameters
 
-| Name   | Type  | Description  |
+| Name | Type | Description |
 |---|---|---|
-| client_id  | string  | ** Required ** The ID you received during application registration |
-| client_secret  | string  | ** Required ** The Secret you received during application registration |
+| **client_id**  | string  | **Required** The ID you received during application registration |
+| **client_secret**  | string  | **Required** The Secret you received during application registration |
 
 ### Response
 
@@ -41,7 +41,7 @@ The valid access token should be submitted to server with each HTTP call by any 
 
 `?access_token=` query parameter.
 
-### Cookie values
+### Cookie value
 
-`likeastore-access-token` cookie value.
+`lkstr_access_token` cookie value.
 
