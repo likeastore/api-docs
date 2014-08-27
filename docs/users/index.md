@@ -1,3 +1,3 @@
-# Likeastore Open (users) API
+# Likeastore for Users
 
 TDB.
