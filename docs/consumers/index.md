@@ -15,8 +15,11 @@ The primary value that API propose is to simplify the integration with different
 * [Connections](connections.md)
 * [Favorites](favorites.md)
 * [Search](search.md)
+* [Topics](topics.md)
 * [Recommendations](recommendations.md) (planned **v2.0**)
 
 ## Integration helpers
 
 * [Social networks authorization server](server.md)
+
+For all question, please contact [devs@likeastore.com](mailto:devs@likeastore.com)
